@@ -1,11 +1,11 @@
 {
-  "name": "booklistapi",
+  "name": "apicodecoaches",
   "version": "1.7.4",
   "private": false,
-  "description": "A simple JSON-base REST API based on JSON Placeholder.",
+  "description": "A simple JSON-base REST API based on JSON Placeholder about fictional programming and web development volunteer coaches and mentors.  Code coaches  user data provided from RandomUser.me site. To be used/ consumed by my 'CodingCoaches' Angular repository and project.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/systemsvanguard/booklistapi.git"
+    "url": "git+https://github.com/systemsvanguard/apicodecoaches.git"
   },
   "author": "Ryan Hunter | GitHub handle: SystemsVanguard | Web: www.ryanhunter.org | Location: Toronto ON Canada | Email: Ryan@ryanHunter.org ",
   "license": "MIT",
