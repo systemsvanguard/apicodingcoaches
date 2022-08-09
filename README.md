@@ -1,7 +1,7 @@
 # API Coding Coaches
 A simple JSON-base REST API based on JSON Placeholder about fictional programming and web development volunteer coaches and mentors.  Code coaches  user data provided from RandomUser.me site. To be used/ consumed by my 'CodingCoaches' Angular repository and project. 
 
-Live **Site Demo** ~ [Coding Coaches API](https://apicodingcoaches-lhdra.ondigitalocean.app/) 
+Live **Site Demo** ~ [Coding Coaches API](https://apicodecoaches.vanguardwebdesigns.com/users) 
 
 ![Coding Coaches API 1](http://ryanhunter.ca/images/portfolio/users_api_01.png)
 
