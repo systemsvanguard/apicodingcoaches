@@ -1,0 +1,29 @@
+{
+  "name": "booklistapi",
+  "version": "1.7.4",
+  "private": false,
+  "description": "A simple JSON-base REST API based on JSON Placeholder.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/systemsvanguard/booklistapi.git"
+  },
+  "author": "Ryan Hunter | GitHub handle: SystemsVanguard | Web: www.ryanhunter.org | Location: Toronto ON Canada | Email: Ryan@ryanHunter.org ",
+  "license": "MIT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "REST API",
+    "Node.js",
+    "JSON",
+    "JSON Placeholder"
+  ],
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

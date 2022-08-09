@@ -1,0 +1,29 @@
+API query examples 
+==================
+
+API : http://localhost:4001/users 
+
+AND 
+
+http://localhost:4001/users?login.username=bluegorilla210 
+
+===> Alta Orosco
+
+****** 
+
+http://localhost:4001/users?email=maddison.mcguinness@example.com 
+
+===> Madison McGuinness
+****** 
+
+http://localhost:4001/users?login.uuid=e2d33287-4bde-4125-b9e1-6ab9ff8b62f2 
+
+===> Vibha Kamath 
+****** 
+
+
+http://localhost:4001/users?location.country=Mexico 
+
+http://localhost:4001/users?location.city=Molcaxac
+
+
